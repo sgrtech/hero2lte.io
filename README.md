@@ -6,6 +6,12 @@ This program provide about Galaxy S7 Edge's guide.
 
 [hero2lte OneUI Made by FloydQ](https://pan.baidu.com/s/1XzukEgK0OZSAP_4wLns7Tw?pwd=31r8) Password：31r8
 
+### Guideline
+
+You can follow this guide to do it
+
+[Guide]()
+
 ******
 
 ##### *DONATE US NOW*
