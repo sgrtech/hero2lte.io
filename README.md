@@ -31,3 +31,9 @@ At this time, connect the mobile phone to the computer, you can import the Rom t
 And wait it. You can make a cup of coffee and have a rest. [Image](https://s1.imagehub.cc/images/2023/08/02/3579971_8f5613f9_9115_0096_8732494x3325.jpg.m.jpeg)
 
 Finally, the phome will restart. And All over! Enjoy it! [Image](https://s1.imagehub.cc/images/2023/08/02/3579971_eac7778b_9115_0048_5322494x3325.jpg.m.jpeg)
+
+******
+
+If you like my Guideline, You can donate me or join our's group.
+
+
