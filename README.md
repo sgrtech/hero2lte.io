@@ -22,7 +22,7 @@ There are no different with American and Europe( I don't know :) ) [Image](https
 
 And Flash it in Odin. [Image](https://s1.imagehub.cc/images/2023/08/02/3579971_79d22317_9114_8107_6071440x868.jpg.m.jpeg) [Image](https://s1.imagehub.cc/images/2023/08/02/3579971_0055c83c_9114_7931_443876x651.jpg.m.jpeg)
 
-⚠️Critical step: After flashing the phone, it will restart. When restarting, immediately press the volume up button and the power button and the home button. Here is an explanation: because Samsung has added some verification mechanisms, after flashing the rec, you must manually enter the rec. Otherwise, the rec will be replaced by the original rec, and it will be for nothing, so this step is necessary. After entering the rec, you can choose your language. [Image](https://s1.imagehub.cc/images/2023/08/02/3579971_3399a384_9114_8028_4232494x3325.jpg.m.jpeg)
+⚠️*Critical step: After flashing the phone, it will restart. When restarting, immediately press the volume up button and the power button and the home button. Here is an explanation: because Samsung has added some verification mechanisms, after flashing the rec, you must manually enter the rec. Otherwise, the rec will be replaced by the original rec, and it will be for nothing, so this step is necessary. After entering the rec, you can choose your language. [Image](https://s1.imagehub.cc/images/2023/08/02/3579971_3399a384_9114_8028_4232494x3325.jpg.m.jpeg)*
 
 Swipe the slider to enter the rec main page. After entering the main page, click install, you will find that the internal storage is 0mb, because the data is encrypted, you need to return at this time, click clear, format the data and enter yes, then the data will have capacity. [Image](https://s1.imagehub.cc/images/2023/08/02/3579971_8f8c135a_9114_8012_5342494x3325.jpg.m.jpeg)  [Image](https://s1.imagehub.cc/images/2023/08/02/3579971_5d1fcbcc_9114_8893_1952494x3325.jpg.m.jpeg)
 
@@ -34,6 +34,18 @@ Finally, the phome will restart. And All over! Enjoy it! [Image](https://s1.imag
 
 ******
 
-If you like my Guideline, You can donate me or join our's group.
+##### If you like my Guideline, You can donate me or join our's group.
 
+*DONATE US NOW*
 
+[Press Here to receive Alipay Redpack](https://www.imagehub.cc/image/IMG-0238.PNG.Jefr)
+
+[Alipay](https://www.imagehub.cc/image/532DCF15-E931-4629-85BA-3DD0AF9BCE45.HdqB)
+
+[WeChat Pay](https://www.imagehub.cc/image/A7584EE9-CA5E-48DA-B271-BFB3480B1C92.Hr0q)
+
+###### Contact us
+
+[Offical QQ Group](https://qm.qq.com/cgi-bin/qm/qr?k=5dYCu9S3d4I3NMbjenZhWJRrYnmq4CJv&authKey=apQ+kRbxmlnNF/qJmr/krX76eQsb2IQJ2BzqBuBhJxlN1CjZOlbNBal+bYunT1zc&noverify=0)
+
+[吹水群](https://qm.qq.com/cgi-bin/qm/qr?k=LIESPOE7_hDF-d7rEomJPQ26jcHrUPPc&authKey=WLIAxt2JoEdjUdymTpyqvypyTxq+/PZQJlLzzwT9/1oS1pVPaie3xkBjw+HDKYxB&noverify=0)
