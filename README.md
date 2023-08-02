@@ -1,5 +1,3 @@
-From 8,1,2023. This page have already stop to update. Sorry.
-
 # Galaxy S7e Libarry
 
 This program provide about Galaxy S7 Edge's guide.
