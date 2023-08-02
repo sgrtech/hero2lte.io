@@ -10,7 +10,7 @@ This program provide about Galaxy S7 Edge's guide.
 
 You can follow this guide to do it
 
-[Guide]()
+[Guide](https://github.com/sgrtech/hero2lte.io/tree/How-to-flash-to-FloydQ)
 
 ******
 
