@@ -8,7 +8,8 @@
 
 Let's began.First of all, you need a Korean version of Samsung S7, S7edge, Note7, Note FE mobile phones, because the Rom package made by the author of FloydQ is for the Exynos 8890 SOC.
 
-Go to settings, about this phone, software information, press the compilation number, and open the developer options. [Image](https://s1.imagehub.cc/images/2023/08/02/3579971_a3b8cee6_9114_439_1072494x3325.jpg.m.jpeg)
+Go to settings, about this phone, software information, press the compilation number, and open the developer options.
+![Image](https://s1.imagehub.cc/images/2023/08/02/3579971_a3b8cee6_9114_439_1072494x3325.jpg.m.jpeg)
 
 Then go back to the settings, find the developer options, and turn on the oem unlock. [Image](https://s1.imagehub.cc/images/2023/08/02/3579971_6379776e_9114_5732_4832494x3325.jpg.m.jpeg)
 
